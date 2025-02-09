@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/satyamkodale/call-greetings/config"
-	"github.com/satyamkodale/go-greetings/greetings"
+	"github.com/satyamkodale/go-greetings/v2/greetings"
 )
 
 func main() {
